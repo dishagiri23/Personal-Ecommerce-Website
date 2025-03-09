@@ -1,6 +1,6 @@
 # 🛍️ My eCommerce Website
 
-A fully responsive **eCommerce website** built using **HTML, CSS, and JavaScript**. It features an interactive product catalog, and smooth animations for a great shopping experience. 🚀
+A fully responsive **eCommerce website** built using **HTML, CSS, and JavaScript**. It features an interactive product catalogue, and smooth animations for a great shopping experience. 🚀
 
 ## 🚀 Features
 
