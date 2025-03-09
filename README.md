@@ -18,4 +18,4 @@ A fully responsive **eCommerce website** built using **HTML, CSS, and JavaScript
 📧 Email: dishagiri09170@gmail.com
 
 ## 📢 Don't Miss Out!
-🔗 **[Check out the LinkedIn post about this project!](your-linkedin-post-url)** 🎉
+🔗 **[Check out the LinkedIn post about this project!](https://www.linkedin.com/posts/disha-giri-414a72314_webdevelopment-javascript-ecommerce-activity-7304418683815161856-piPz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_kPtABCjw9fH2akV5Tu82nt9cl_XeXa-o)** 🎉
